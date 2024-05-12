@@ -3,7 +3,7 @@ import asyncio
 import random
 
 # Bot Configuration
-TOKEN = 'MTIzNzg0Mzg3OTE0MzgwMDkzMg.GhO9iT.DzuErqaN8QUK_lW5Qh0aPcy_x4vCFB3WlIor_Q'  # Your bot's token
+TOKEN = 'insert_your_bots##'  # Your bot's token
 GUILD_ID = 949369997040422952  # Your guild's ID
 CHANNEL_ID = 949369997707337790  # Your channel's ID where messages should be sent
 USER_ID = 717080796850159738  # User ID you want to ping
